@@ -16,10 +16,10 @@ hi CursorColumn guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#c0c0c0 ctermfg=81 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Directory guifg=#c0c0c0 ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi DiffAdd guifg=NONE ctermfg=NONE guibg=#c0c0c0 ctermbg=238 gui=NONE cterm=NONE
-hi DiffChange guifg=NONE ctermfg=NONE guibg=#c0c0c0 ctermbg=239 gui=NONE cterm=NONE
-hi DiffDelete guifg=#c0c0c0 ctermfg=203 guibg=#c0c0c0 ctermbg=237 gui=NONE cterm=NONE
-hi DiffText guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
+hi DiffAdd guifg=DarkGreen ctermfg=DarkGreen guibg=#c0c0c0 ctermbg=238 gui=NONE cterm=NONE
+hi DiffChange guifg=Black ctermfg=Black guibg=#c0c0c0 ctermbg=239 gui=NONE cterm=NONE
+hi DiffDelete guifg=DarkRed ctermfg=DarkRed guibg=#c0c0c0 ctermbg=237 gui=NONE cterm=NONE
+hi DiffText guifg=Brown ctermfg=Brown guibg=#c0c0c0 ctermbg=237 gui=bold cterm=NONE
 hi ErrorMsg guifg=#c0c0c0 ctermfg=203 guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
 hi VertSplit guifg=#212121 ctermfg=235 guibg=#212121 ctermbg=235 gui=NONE cterm=NONE
 hi Folded guifg=#666666 ctermfg=242 guibg=#1d1d1d ctermbg=234 gui=NONE cterm=NONE
