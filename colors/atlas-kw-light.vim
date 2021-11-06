@@ -25,7 +25,7 @@ hi IncSearch guifg=Black ctermfg=Black guibg=DarkGray ctermbg=DarkGray gui=under
 hi LineNr guifg=#444444 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MatchParen guifg=#f43753 ctermfg=203 guibg=NONE ctermbg=NONE gui=Bold cterm=Bold
 hi NonText guifg=#444444 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Normal guifg=Black ctermfg=Black guibg=BgDefault ctermbg=81 gui=NONE cterm=NONE
+hi Normal guifg=Black ctermfg=Black guibg=LightGray ctermbg=LightGray gui=NONE cterm=NONE
 hi PMenu guifg=#212121 ctermfg=235 guibg=#d0d0d0 ctermbg=81 gui=NONE cterm=NONE
 hi PMenuSel guifg=Black ctermfg=235 guibg=#666666 ctermbg=185 gui=NONE cterm=NONE
 hi PmenuSbar guifg=Black ctermfg=180 guibg=#c0c0c0 ctermbg=180 gui=NONE cterm=NONE
