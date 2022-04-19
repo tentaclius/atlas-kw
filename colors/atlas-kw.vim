@@ -16,9 +16,9 @@ hi CursorColumn guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm
 hi CursorLine guifg=NONE ctermfg=NONE guibg=#323232 ctermbg=236 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#c0c0c0 ctermfg=81 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Directory guifg=#c0c0c0 ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi DiffAdd guifg=DarkGreen ctermfg=DarkGreen guibg=#c0c0c0 ctermbg=238 gui=NONE cterm=NONE
-hi DiffChange guifg=Black ctermfg=Black guibg=#c0c0c0 ctermbg=239 gui=NONE cterm=NONE
-hi DiffDelete guifg=DarkRed ctermfg=DarkRed guibg=#c0c0c0 ctermbg=237 gui=NONE cterm=NONE
+hi DiffAdd guifg=Green ctermfg=Green guibg=#c0c0c0 ctermbg=238 gui=NONE cterm=NONE
+hi DiffChange guifg=Yellow ctermfg=Yellow guibg=#c0c0c0 ctermbg=239 gui=NONE cterm=NONE
+hi DiffDelete guifg=Red ctermfg=Red guibg=#c0c0c0 ctermbg=237 gui=NONE cterm=NONE
 hi DiffText guifg=Brown ctermfg=Brown guibg=#c0c0c0 ctermbg=237 gui=bold cterm=NONE
 hi ErrorMsg guifg=#c0c0c0 ctermfg=203 guibg=NONE ctermbg=NONE gui=reverse cterm=reverse
 hi VertSplit guifg=#212121 ctermfg=235 guibg=#212121 ctermbg=235 gui=NONE cterm=NONE
@@ -52,13 +52,15 @@ hi VisualNOS guifg=NONE ctermfg=NONE guibg=#444444 ctermbg=0 gui=NONE cterm=NONE
 hi WarningMsg guifg=#c0c0c0 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WildMenu guifg=#212121 ctermfg=235 guibg=#c0c0c0 ctermbg=185 gui=Bold cterm=Bold
 hi Comment guifg=#666666 ctermfg=242 guibg=NONE ctermbg=NONE gui=Italic cterm=Italic
-hi Constant guifg=#ffffff ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi String guifg=#ffffff ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Character guifg=#ffffff ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Boolean guifg=#ffffff ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Number guifg=#c0c0c0 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Float guifg=#c0c0c0 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+
+hi Constant guifg=#98ce8c ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi String guifg=#98ce8c ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Character guifg=#98ce8c ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Boolean guifg=#98ce8c ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Number guifg=#98ce8c ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Float guifg=#98ce8c ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Identifier guifg=#c0c0c0 ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+
 hi Function guifg=#ffffff ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Statement guifg=#ffffff ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Conditional guifg=#ffffff ctermfg=185 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
